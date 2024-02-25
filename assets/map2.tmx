@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="left-down" width="50" height="40" tilewidth="128" tileheight="128" infinite="0" nextlayerid="10" nextobjectid="22">
+ <tileset firstgid="1" source="tilesetino.tsx"/>
+ <layer id="9" name="Tile Layer 1" width="50" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2T0KgDAMBeAsHdx08hKCgxfy/qdwEqrU0B/TpOENb4kU+rUpog1EFBpyCKRlPl4c+6BJORbFbBVj4IADDjg8O7TeDxKOuXN6OSaiM05L7a5rObhaPOevNeeewVHfV6W9Zs2Rsx/cGAnHymQkh+T5sNxX0oGjuK8eaa1pOrjalFmzsB+eHZ77ilv/kRzcfC04Uv2Sez6s9JV0pBwevmv/Ss3/BDjggAMOr44R83bUROKOU+P+1pLjAr9GtUs=
+  </data>
+ </layer>
+ <objectgroup id="3" name="wall">
+  <object id="2" x="252" y="264" width="5896" height="116"/>
+  <object id="3" x="6016" y="264" width="132" height="4596"/>
+  <object id="4" x="260" y="4740" width="5888" height="116"/>
+  <object id="5" x="260" y="264" width="120" height="4592"/>
+  <object id="6" x="1276" y="1288" width="132" height="2548"/>
+  <object id="7" x="1284" y="3712" width="3832" height="124"/>
+  <object id="8" x="4992" y="1280" width="124" height="2556"/>
+  <object id="9" x="1280" y="1280" width="3832" height="132"/>
+ </objectgroup>
+ <objectgroup id="6" name="finish line">
+  <object id="17" x="387.879" y="2178.79" width="887.879" height="121.212"/>
+ </objectgroup>
+ <objectgroup id="8" name="sector2">
+  <object id="20" x="3584.85" y="3842.42" width="124.242" height="893.939"/>
+ </objectgroup>
+ <objectgroup id="7" name="sector1">
+  <object id="21" x="4351.52" y="384.848" width="130.303" height="890.909"/>
+ </objectgroup>
+ <objectgroup id="4" name="player">
+  <object id="10" x="640" y="2316" width="124" height="240"/>
+ </objectgroup>
+</map>
