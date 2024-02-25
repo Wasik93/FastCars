@@ -9,7 +9,6 @@ public class FastCars extends Game {
 	private final DatabaseInterface databaseInterface;
 
 	private Integer steering;
-
 	Music menuMusic;
 
 	FastCars(DatabaseInterface databaseInterface){
